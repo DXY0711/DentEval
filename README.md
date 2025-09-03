@@ -93,6 +93,16 @@ Student answer datasets should be stored in JSON files under a directory, for ex
 
 ## 🚀 Quick Start
 
+First time, you should create a knowledge base through Milvus
+These files could help you:
+```bash
+file embedding_model
+batch_processor.py
+save.py
+store.py
+```
+
+
 ### **Run Example Evaluation**
 
 ```bash
